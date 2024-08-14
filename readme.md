@@ -11,9 +11,7 @@
 演示地址：[https://fz.gitapp.cn](https://fz.gitapp.cn)
 
 
-## 源码下载
 
-https://github.com/geeeeeeeek/java_fz
 
 
 ## 主要功能
